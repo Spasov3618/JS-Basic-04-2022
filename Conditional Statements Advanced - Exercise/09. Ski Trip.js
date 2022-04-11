@@ -70,3 +70,6 @@ function ski(input){
                 console.log(`${totalPrice.toFixed(2)}`);
             }
 }
+ski(["14",
+"apartment",
+"positive"])

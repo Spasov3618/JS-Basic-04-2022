@@ -70,4 +70,5 @@ function hous(input){
                 let monneNeed = moneu - budjet;
                 console.log( `Not enough money, you need ${monneNeed.toFixed(2)} leva more.`);
             }
+           
 }
