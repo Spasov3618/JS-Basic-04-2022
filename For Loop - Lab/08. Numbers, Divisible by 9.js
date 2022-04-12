@@ -11,4 +11,7 @@ function sum(input){
     }
     console.log(`The sum: ${sum}`);
    console.log(num);
+   
 }
+ 
+
