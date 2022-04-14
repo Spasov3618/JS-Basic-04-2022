@@ -1,0 +1,3 @@
+function exam(input) {
+    
+}
