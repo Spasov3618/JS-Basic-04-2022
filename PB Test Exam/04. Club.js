@@ -25,7 +25,6 @@ function club(input) {
             console.log(`Club income - ${total.toFixed(2)} leva.`);
             break;
         }
-
         coctels = input[index];
         index++;
     }
@@ -35,4 +34,7 @@ function club(input) {
     console.log(`We need ${differents.toFixed(2)} leva more.`);
         console.log(`Club income - ${total.toFixed(2)} leva.`);
 }
+
+
+
 }
